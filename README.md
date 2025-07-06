@@ -1,3 +1,23 @@
+# Pet Heaven - React Web Application
+
+This project provides an online platform for pet adoption services, built using React.
+
+## Features
+- Responsive UI with React components
+- Clean routing structure
+- Deployed seamlessly via Vercel
+
+## Live Demo
+[https://testrepo-bijj.vercel.app](https://testrepo-bijj.vercel.app)
+
+## Repository
+[https://github.com/donghyun18/React-Project](https://github.com/donghyun18/React-Project)
+
+## Technologies Used
+- React
+- Vercel Hosting
+- GitHub Version Control
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
