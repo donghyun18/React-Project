@@ -8,7 +8,7 @@ This project provides an online platform for pet adoption services, built using 
 - Deployed seamlessly via Vercel
 
 ## Live Demo
-[https://testrepo-bijj.vercel.app](https://testrepo-bijj.vercel.app)
+[https://react-project-alpha-topaz.vercel.app](https://react-project-alpha-topaz.vercel.app)
 
 ## Repository
 [https://github.com/donghyun18/React-Project](https://github.com/donghyun18/React-Project)
